@@ -3,7 +3,7 @@ USER GUIDE
 WHAT IS THE EVT – CES APPLICATION
 ▪ Overview:
 The EV Tax Credit Eligibility application allows users to check whether their electric vehicles (EVs) qualify for a $7,500 tax credit based on their assembly location and critical mineral sourcing. The application displays the assembly location on a map and provides a status message indicating whether the vehicle qualifies for the tax credit.
-▪ Application is deployed on Google App Engine, you can access the link below:
+▪ Application is deployed on Google App Engine, you can access the link here:
 https://sp24-finalproject-teamorange.uc.r.appspot.com/ 
 
 ❖ Main Interface Page
