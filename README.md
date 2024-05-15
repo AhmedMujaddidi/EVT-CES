@@ -9,14 +9,10 @@ https://sp24-finalproject-teamorange.uc.r.appspot.com/
 ❖ Main Interface Page
 ![image](https://github.com/AhmedMujaddidi/EVT-CES/assets/132592296/27ff573d-57df-4f9a-a302-08e7b234b73e)
 
-➢
-Step 1: Once you reach the index.html page. You need to upload the given PDF of one of the Electric Vehicles (Ford Mach E or KIA EV6).
-➢
-Step 2: Click on Choose File
-➢
-Step 3: Click on the Uploads Button
-➢
-Step 4: An alert will appear on the Google Cloud Shell console stating data has been successfully inserted into the Firestore (default) database and BigQuery (creditTracking) database.
+➢ Step 1: Once you reach the index.html page. You need to upload the given PDF of one of the Electric Vehicles (Ford Mach E or KIA EV6).
+➢ Step 2: Click on Choose File
+➢ Step 3: Click on the Uploads Button
+➢ Step 4: An alert will appear on the Google Cloud Shell console stating data has been successfully inserted into the Firestore (default) database and BigQuery (creditTracking) database.
 
 ❖ Customer Details Page (summary.html)
 ![image](https://github.com/AhmedMujaddidi/EVT-CES/assets/132592296/1e308bf5-6008-4791-9219-fd7124fdd6be)
